@@ -39,7 +39,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/guilopeszw/guilopeszw/output/snake.svg" alt="Snake animation" />
-
-###
