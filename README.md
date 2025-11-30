@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guilherme Lopes and I'm an Computer Science Bachelor @ UFPB</h2>
+<h2 align="left">Hi 👋! My name is Guilherme Lopes and I'm a Computer Science Bachelor @ UFPB</h2>
 
 ###
 
