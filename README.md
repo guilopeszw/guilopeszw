@@ -1,37 +1,72 @@
 <h1 align="center">Hi 👋, I'm Guilherme Lopes</h1>
-<h3 align="center">Bachelor in Computer Science at the Federal University of Paraíba!</h3>
-- 💬 Ask me about **Machine Learning, Back-end development, music, AI and data science!**
-- 📫 How to reach me **guilherme.lopes3@academico.ufpb.br**
-- ⚡ Fun fact **I am a musician!**
+<p align="center"><strong>Bachelor in Computer Science at the Federal University of Paraíba</strong></p>
 
-<div> <a href="https://www.linkedin.com/in/guilherme-u-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/guilopeszw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:guilherme.lopes3@academico.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<p align="center">
+  💬 Ask me about <strong>Machine Learning, Back-end development, music, AI and data science!</strong><br/>
+  ⚡ Fun fact: <strong>I am a musician!</strong><br/>
+  📫 How to reach me: <a href="mailto:guilherme.lopes3@academico.ufpb.br">guilherme.lopes3@academico.ufpb.br</a>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-u-lopes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/guilopeszw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:guilherme.lopes3@academico.ufpb.br">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+## 📚 Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/guilherme-u-lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="guilherme-u-lopes" height="30" width="40" /></a></p>
+  <!-- Programming languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+
+  <!-- Databases & ML -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+---
 
 ## 📊 Languages Used
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false" 
-       alt="Top Langs"
-  />
+  <!-- github-readme-stats top languages; reliable for most repos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false" alt="Top languages" />
 </p>
 
+> Fallback: if the image above does not display on your GitHub README (rare but possible), use this compact badge below as a minimal fallback:
+>
+> ```md
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false)
+> ```
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-</p>
+## 📌 Projects & Highlights
+- **Machine learning projects** — supervised learning, model explainability and performance evaluation.
+- **Back-end** — APIs, databases and scalable back-end services (PostgreSQL, REST).
+- **Music** — songwriting, recording, and music production.
+
+---
+
+## ✨ Want me to:
+- integrate a larger stats panel (commits, streaks, contribution graph)?
+- add a Projects gallery with pinned repo cards?
+If yes, tell me which option and I’ll prepare the next version.
+
+---
+
+<p align="center">Made with ❤️ • Guilherme Lopes</p>
