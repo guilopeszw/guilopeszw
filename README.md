@@ -24,13 +24,11 @@
 ## 📚 Languages & Tools
 
 <p align="left">
-  <!-- Programming languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
 
-  <!-- Databases & ML -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -43,6 +41,10 @@
 ## 📊 Languages Used
 
 <p align="center">
-  <!-- github-readme-stats top languages; reliable for most repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false" alt="Top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&theme=dracula&langs_count=10&hide_border=true"
+      alt="Top languages"
+    />
+  </a>
 </p>
