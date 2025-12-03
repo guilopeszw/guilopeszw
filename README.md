@@ -46,27 +46,3 @@
   <!-- github-readme-stats top languages; reliable for most repos -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false" alt="Top languages" />
 </p>
-
-> Fallback: if the image above does not display on your GitHub README (rare but possible), use this compact badge below as a minimal fallback:
->
-> ```md
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&langs_count=10&theme=dracula&hide_border=false)
-> ```
-
----
-
-## 📌 Projects & Highlights
-- **Machine learning projects** — supervised learning, model explainability and performance evaluation.
-- **Back-end** — APIs, databases and scalable back-end services (PostgreSQL, REST).
-- **Music** — songwriting, recording, and music production.
-
----
-
-## ✨ Want me to:
-- integrate a larger stats panel (commits, streaks, contribution graph)?
-- add a Projects gallery with pinned repo cards?
-If yes, tell me which option and I’ll prepare the next version.
-
----
-
-<p align="center">Made with ❤️ • Guilherme Lopes</p>
