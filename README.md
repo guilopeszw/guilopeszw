@@ -32,14 +32,3 @@
 </p>
 
 ---
-
-## 📊 Languages Used
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats-ochre-gamma.vercel.app/api/top-langs/?username=guilopeszw&layout=compact&theme=dracula&langs_count=10&hide_border=true" 
-      alt="Top languages"
-    />
-  </a>
-</p>
