@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Guilherme Lopes</h1>
+<h1 align="center">hi, i'm guilherme lopes! :p </h1>
 <p align="center"><strong>Bachelor in Computer Science at the Federal University of Paraíba</strong></p>
 
 <p align="center">
-  💬 Ask me about <strong>Machine Learning, Back-end development, music, AI and data science!</strong><br/>
-  ⚡ Fun fact: <strong>I am a musician!</strong><br/>
-  📫 How to reach me: <a href="mailto:guilherme.lopes3@academico.ufpb.br">guilherme.lopes3@academico.ufpb.br</a>
+   stuff building</strong><br/>
+   fun fact: <strong>i am also a musician!</strong><br/>
+   let's talk: <a href="mailto:guilherme.lopes3@academico.ufpb.br">guilherme.lopes3@academico.ufpb.br</a>
 </p>
 
 <div align="center">
