@@ -20,9 +20,6 @@
 </div>
 
 ---
-
-## 📚 Technologies used
-
 <p align="left">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
