@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm guilherme lopes! :p </h1>
-<p align="center"><strong>b.sc in comp sci @ federal university of paraíba</strong></p>
+<p align="center"><strong>b.sc in computer science @ federal university of paraíba</strong></p>
 
 <p align="center">
    stuff building</strong><br/>
