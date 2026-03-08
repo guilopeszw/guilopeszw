@@ -4,7 +4,7 @@
 <p align="center">
    building things </strong><br/>
    fun fact: <strong>i am also a musician!</strong><br/>
-   let's talk: <a href="mailto:guilherme.lopes3@academico.ufpb.br">guilherme.lopes3@academico.ufpb.br</a>
+   let's talk: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
 
 <div align="center">
