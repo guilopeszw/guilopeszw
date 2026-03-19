@@ -2,7 +2,7 @@
 <p align="center"><strong>b.sc in computer science @ federal university of paraíba</strong></p>
 
 <p align="center">
-   building things </strong><br/>
+   building things. </strong><br/>
    fun fact: <strong>i am also a musician!</strong><br/>
    let's talk: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
