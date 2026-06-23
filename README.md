@@ -2,9 +2,10 @@
 <p align="center"><strong>b.sc in computer science @ federal university of paraíba</strong></p>
 
 <p align="center">
-   building things. </strong><br/>
-   fun fact: <strong>i am also a musician!</strong><br/>
-   let's talk: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
+   building and exploding stuff </strong><br/>
+   
+   fun fact: <strong>i am also a musician</strong><br/>
+   reach me at: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
 
 <div align="center">
