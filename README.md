@@ -8,6 +8,8 @@
    reach me at: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
 
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-u-lopes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
