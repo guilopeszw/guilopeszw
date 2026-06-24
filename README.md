@@ -3,7 +3,6 @@
 
 <p align="center">
    building and exploding stuff </strong><br/>
-   
    fun fact: <strong>i am also a musician</strong><br/>
    reach me at: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
