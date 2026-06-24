@@ -1,8 +1,8 @@
 <h1 align="center">hi, i'm guilherme lopes! :p </h1>
 <p align="center"><strong>b.sc in computer science @ federal university of paraíba</strong></p>
+<p align="center">building and exploding stuff </strong><br/></p>
 
 <p align="center">
-   building and exploding stuff </strong><br/>
    fun fact: <strong>i am also a musician</strong><br/>
    reach me at: <a href="mailto:guilhermeulopes.work@gmail.com">guilhermeulopes.work@gmail.com</a>
 </p>
