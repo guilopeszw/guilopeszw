@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm guilherme lopes! :p </h1>
+<h1 align="center">hey :p </h1>
 <p align="center"><strong>b.sc in computer science @ federal university of paraíba</strong></p>
 <p align="center">building and exploding stuff </strong><br/></p>
 
